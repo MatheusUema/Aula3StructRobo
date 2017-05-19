@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494602116 source:c:\users\matheus uema\desktop\robo3struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
